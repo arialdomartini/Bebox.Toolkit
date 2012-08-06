@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bebox.Toolkit", "Bebox.Toolkit\Bebox.Toolkit.csproj", "{47E6DB98-7D42-4A6F-933F-0926954C1001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bebox.Toolkit.Tests.Integration", "Bebox.Toolkit.Tests.Integration\Bebox.Toolkit.Tests.Integration.csproj", "{F82FF38F-3E04-4E93-B0BB-20FD7EEE0F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E6DB98-7D42-4A6F-933F-0926954C1001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E6DB98-7D42-4A6F-933F-0926954C1001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E6DB98-7D42-4A6F-933F-0926954C1001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E6DB98-7D42-4A6F-933F-0926954C1001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82FF38F-3E04-4E93-B0BB-20FD7EEE0F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82FF38F-3E04-4E93-B0BB-20FD7EEE0F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82FF38F-3E04-4E93-B0BB-20FD7EEE0F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82FF38F-3E04-4E93-B0BB-20FD7EEE0F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
